@@ -19,6 +19,11 @@ h1, h2, h3, h4 {
   font-family: 'Roboto';
 }
 
+.btn {
+  float: right;
+  margin-left: 10px;
+}
+
 .date {
   float: right;
   color: #828282;
